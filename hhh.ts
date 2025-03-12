@@ -10,4 +10,4 @@ for (let i = 0; i < a.length; i++) {
 }
 console.log(a);
 
-console.log("dddd");
+console.log("what is this  is ko rkhna");
